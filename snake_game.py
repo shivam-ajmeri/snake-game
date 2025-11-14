@@ -145,7 +145,7 @@ def main() -> None:
         "direction": "down"
     }
 
-    label = tk.Label(window, text=f"Score: {state['score']}", font=("Arial", 16))
+    label = tk.Label(window, text=f"Score: {state['score']} points", font=("Arial", 16))
     label.pack()
 
     canvas = tk.Canvas(window, bg=BG_COLOR,
