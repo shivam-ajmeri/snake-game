@@ -136,7 +136,8 @@ def game_over(canvas: tk.Canvas) -> None:
 def main() -> None:
     """Run the Snake game GUI."""
     window = tk.Tk()
-    window.title("Shivam's Snake Game - CSC-44102 Assessment 2")
+    window.title("Shivam's Snake Game - CSC-44102 Assessment 2 (v1)")
+
     window.resizable(False, False)
 
     state = {
