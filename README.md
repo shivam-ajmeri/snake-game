@@ -11,3 +11,5 @@ CSC-44102 – Foundations of Programming and Software Engineering – Assessment
 
    ```bash
    python snake_game.py
+
+Tested on Python 3.11 on Windows 10.
