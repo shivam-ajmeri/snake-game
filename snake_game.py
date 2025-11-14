@@ -6,7 +6,7 @@ import random
 
 GAME_WIDTH = 600
 GAME_HEIGHT = 400
-SPEED = 120  # smaller = faster movement
+SPEED = 100  # smaller = faster movement
 SPACE_SIZE = 20
 BODY_PARTS = 3
 SNAKE_COLOR = "#00FF00"
