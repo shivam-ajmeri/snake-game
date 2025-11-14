@@ -1,5 +1,7 @@
 # Snake Game (Python Tkinter)
 
+Author: Shivam Ajmeri (Keele University)
+
 This is a simple Snake game built in Python using Tkinter for Keele University
 CSC-44102 – Foundations of Programming and Software Engineering – Assessment 2.
 
