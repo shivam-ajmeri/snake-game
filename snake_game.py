@@ -1,5 +1,7 @@
 # I acknowledge the use of ChatGPT (GPT-5.1 Thinking, OpenAI, https://chatgpt.com/)
 # to create, refine, and assist with the code in this file.
+# Simple Snake game for Keele University CSC-44102 Assessment 2.
+
 
 import tkinter as tk
 import random
